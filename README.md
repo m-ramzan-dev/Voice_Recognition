@@ -22,7 +22,7 @@ flutter run --dart-define-from-file=.env
 
 use this command to build the project
 
-flutter run --dart-define-from-file=.env
+flutter build apk --dart-define-from-file=.env
 
 
 
